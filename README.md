@@ -1,3 +1,7 @@
 # Stratascratch coding question code
 
-Store code related to Stratascratch coding questions written using postgresql
+
+## General info
+
+- This repo was created to store my approach to Stratascratch free coding questions using postgresql
+- It is highly recommended to come up with solution by yourself first before looking into the code
