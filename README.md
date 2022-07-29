@@ -4,4 +4,4 @@
 ## General info
 
 - This repo was created to store my approach to Stratascratch free coding questions using postgresql
-- It is highly recommended to come up with solution by yourself first before looking into the code
+- It is highly recommended to come up with solution by yourself before looking into the code
